@@ -1,7 +1,3 @@
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm Quek
 
 A junior data science developer from Malaysia, based in Malacca.
