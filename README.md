@@ -1,6 +1,6 @@
 # Hi, I'm Quek
 
-A junior data science developer from Malaysia, based in Malacca.
+A junior data science developer and Blockchain Developer from Malaysia, based in Malacca.
 
 ## About Me
 
@@ -42,6 +42,8 @@ A junior data science developer from Malaysia, based in Malacca.
 
 [![aws](https://img.shields.io/badge/-amazonaws-%23F05032?style=flat-square&logo=amazon-aws&logoColor=%23ffffff)](https://git-scm.com/)
 [![gcloud](https://img.shields.io/badge/-googlecloud-4285f4?style=flat-square&logo=google-cloud&logoColor=ffffff)](https://www.docker.com/)
+
+[![hyperledger](https://img.shields.io/badge/-hyperledger-f9f8f8?style=flat-square&logo=hyperledger&logoColor=373737)](https://www.hyperledger.org/use/fabric/)
 
 ## Stats
 
