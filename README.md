@@ -50,12 +50,6 @@ A junior data science developer and Blockchain Developer from Malaysia, based in
 <p><img src="https://github-readme-stats.vercel.app/api?username=Skyquek&show_icons=true&theme=dracula" alt="Skyquek" /></p>
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-📅 **I'm Most Productive on Tuesdays** 
-
-📊 **This week I spent my time on** 
-
 
 
 <!--END_SECTION:waka-->
