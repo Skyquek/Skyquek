@@ -47,7 +47,7 @@ A junior data science developer and Blockchain Developer from Malaysia, based in
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Skyquek&show_icons=true&theme=dracula" alt="Skyquek" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
