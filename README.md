@@ -52,11 +52,11 @@ A junior data science developer and Blockchain Developer from Malaysia, based in
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554308%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554030%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 417 Contributions in the Year 2021
+> 🏆 429 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -70,8 +70,8 @@ A junior data science developer and Blockchain Developer from Malaysia, based in
 
 ```text
 🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-🌆 Daytime    239 commits    ██████████░░░░░░░░░░░░░░░   42.23% 
-🌃 Evening    231 commits    ██████████░░░░░░░░░░░░░░░   40.81% 
+🌆 Daytime    238 commits    ██████████░░░░░░░░░░░░░░░   42.05% 
+🌃 Evening    232 commits    ██████████░░░░░░░░░░░░░░░   40.99% 
 🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95%
 
 ```
@@ -80,10 +80,10 @@ A junior data science developer and Blockchain Developer from Malaysia, based in
 ```text
 Monday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
 Tuesday      100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Saturday     69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Saturday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
 Sunday       114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.14%
 
 ```
@@ -132,7 +132,7 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2021
+ Last Updated on 19/06/2021
 <!--END_SECTION:waka-->
 
 <!--
