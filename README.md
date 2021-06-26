@@ -1,6 +1,10 @@
 # Hi, I'm Quek
 
-A junior data science developer and Blockchain Developer from Malaysia, based in Malacca.
+## Skills
+- DevOps CI/CD
+- Full Stack
+- Machine Learning / Deep Learning
+- Hyperledger Fabric 
 
 ## About Me
 
