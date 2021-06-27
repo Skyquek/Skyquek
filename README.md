@@ -1,18 +1,16 @@
 # Hi, I'm Quek
 
+## About Me
+
+- 🌱 I’m currently learning [![Docker](https://img.shields.io/badge/-docker-005571?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+- 📝 I write articles on [![Blog](https://img.shields.io/badge/-medium-ffffff?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:qyaojing@gmail.com) 
+
 ## Skills
 - DevOps CI/CD
 - Full Stack
 - Machine Learning / Deep Learning
-- Hyperledger Fabric 
-
-## About Me
-
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-docker-005571?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-
-- 📝 I write articles on [![Blog](https://img.shields.io/badge/-medium-ffffff?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/)
-
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:qyaojing@gmail.com) 
+- Hyperledger Fabric Blockchain Network
 
 ## Operating System & Tools
 
