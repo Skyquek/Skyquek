@@ -52,13 +52,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 472 Contributions in the Year 2021
+> 🏆 475 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -72,8 +72,8 @@
 
 ```text
 🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Daytime    242 commits    ██████████░░░░░░░░░░░░░░░   41.87% 
-🌃 Evening    239 commits    ██████████░░░░░░░░░░░░░░░   41.35% 
+🌆 Daytime    239 commits    ██████████░░░░░░░░░░░░░░░   41.35% 
+🌃 Evening    242 commits    ██████████░░░░░░░░░░░░░░░   41.87% 
 🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
 
 ```
@@ -85,8 +85,8 @@ Tuesday      101 commits    ████░░░░░░░░░░░░░�
 Wednesday    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
 Thursday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
 Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-Sunday       113 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
+Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Sunday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.03%
 
 ```
 
@@ -136,7 +136,7 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 <!--
