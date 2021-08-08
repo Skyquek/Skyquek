@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -97,21 +97,20 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 16 mins       █████████████████░░░░░░░░   70.43% 
-Blade Template           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+Other                    1 hr 48 mins        ██████████████████░░░░░░░   73.02% 
+PHP                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Apache Config            13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+Nginx configuration file 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01%
 
 🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ideaku-repository        6 hrs 3 mins        █████████████████████████   99.83% 
-Trademark                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+ideaku-repository        2 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████████   100.0%
+Windows                  2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +131,7 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 
 <!--
