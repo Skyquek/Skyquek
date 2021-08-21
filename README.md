@@ -58,13 +58,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 545 Contributions in the Year 2021
+> 🏆 546 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
@@ -133,7 +133,7 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
 
 <!--
