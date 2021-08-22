@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -97,22 +97,18 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      2 hrs 9 mins        █████████████░░░░░░░░░░░░   52.77% 
-Other                    1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.9% 
-Apache Config            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+PHP                      1 min               ███████████████████████░░   94.23% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ideaku-repository        3 hrs 58 mins       ████████████████████████░   96.72% 
-Style-transfer           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-htdocs                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+blockchain-AI            2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 6 mins        █████████████████████████   100.0%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +129,7 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 <!--
