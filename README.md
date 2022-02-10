@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -97,18 +97,21 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.0% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Blade Template           17 mins             ████████████░░░░░░░░░░░░░   49.74% 
+PHP                      16 mins             ███████████░░░░░░░░░░░░░░   47.27% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-passivbot                0 secs              █████████████████████████   100.0% 
-aitm-cms                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+aitm-cms                 34 mins             █████████████████████████   99.73% 
+passivbot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -129,7 +132,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 18:49:30 UTC
+ Last Updated on 10/02/2022 18:51:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
