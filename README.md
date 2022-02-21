@@ -97,18 +97,16 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      57 mins             █████████████████████░░░░   86.82% 
-Blade Template           8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aitm-cms                 1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -129,7 +127,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 18:49:56 UTC
+ Last Updated on 21/02/2022 18:49:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
