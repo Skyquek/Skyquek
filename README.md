@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -127,7 +127,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 18:54:48 UTC
+ Last Updated on 25/02/2022 18:51:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
