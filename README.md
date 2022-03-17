@@ -127,7 +127,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/03/2022 18:51:13 UTC
+ Last Updated on 17/03/2022 19:34:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
