@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyquek&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,6 +70,48 @@
  > 
 > 🔑 23 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
+🌆 Daytime    203 commits    ████████████░░░░░░░░░░░░░   50.75% 
+🌃 Evening    125 commits    ███████░░░░░░░░░░░░░░░░░░   31.25% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Tuesday      84 commits     █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Wednesday    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
+Friday       83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
+Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+Sunday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -87,7 +129,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:54:02 UTC
+ Last Updated on 05/09/2022 19:03:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
