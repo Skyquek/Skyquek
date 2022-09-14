@@ -70,48 +70,6 @@
  > 
 > 🔑 24 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-🌆 Daytime    171 commits    ████████████░░░░░░░░░░░░░   47.63% 
-🌃 Evening    117 commits    ████████░░░░░░░░░░░░░░░░░   32.59% 
-🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-Tuesday      84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-Wednesday    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-Friday       78 commits     █████░░░░░░░░░░░░░░░░░░░░   21.73% 
-Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -129,7 +87,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Skyquek/Skyquek/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 19:07:33 UTC
+ Last Updated on 14/09/2022 19:03:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
